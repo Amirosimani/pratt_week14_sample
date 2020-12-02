@@ -1,0 +1,1 @@
+MODEL_PATH = "../model/clf_rf_20201124"
