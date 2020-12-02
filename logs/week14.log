@@ -1,0 +1,5 @@
+2020-12-01 20:29:33,902 - week14 - DEBUG - debug message
+2020-12-01 20:29:33,904 - week14 - INFO - info message
+2020-12-01 20:29:33,905 - week14 - WARNING - warn message
+2020-12-01 20:29:33,906 - week14 - ERROR - error message
+2020-12-01 20:29:33,926 - week14 - CRITICAL - critical message
